@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lohitasrith01
+👋 Hi, I’m @Lohitasrith01
 🌟 I'm a driven and detail-oriented Business Analytics graduate student at the University of Massachusetts Amherst, passionate about leveraging data to solve complex problems and drive business decisions.
 
 🔍 My academic and professional journey has equipped me with deep knowledge in machine learning, data analysis, and business intelligence. From developing predictive models that boast over 95% accuracy to optimizing supply chain networks for grocery distributions, my projects are where creativity meets functionality.
